@@ -10,7 +10,9 @@ about:
 
 ---
 
-My name is Yimiao Yuan (Linda). I am a third year Engineering Science student studying at the University of Toronto, majoring in Machine Intelligence. I am currently doing my PEY at Xero as an intern data engineer.
+My name is Yimiao Yuan (Linda). 
+
+I am a third year Engineering Science student studying at the University of Toronto, majoring in Machine Intelligence. I am currently doing my PEY at Xero as an intern data engineer.
 
 During my academic career, I managed to accrue 4 months of working experience. I had the privilege of working for the University of Toronto in a research lab during the summer, where I learned valuable professional skills such as experimental design and research and development. 
 
