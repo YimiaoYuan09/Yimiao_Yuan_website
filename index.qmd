@@ -1,11 +1,17 @@
 ---
 title: "Welcome to my site!"
+about:
+  links:
+    - text: "CV"
+      href: pdfs/cv-Yimiao_Yuan.pdf
+    - icon: envelope
+      text: "Email"
+      href: "mailto:yymlinda.yuan@mail.utoronto.ca"
+
 ---
 
-This is a Quarto website.
+My name is Yimiao Yuan (Linda). I am a third year Engineering Science student studying at the University of Toronto, majoring in Machine Intelligence. I am currently doing my PEY at Xero as an intern data engineer.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+During my academic career, I managed to accrue 4 months of working experience. I had the privilege of working for the University of Toronto in a research lab during the summer, where I learned valuable professional skills such as experimental design and research and development. 
 
-```{r}
-1 + 1
-```
+Whether working on academic, extracurricular, or professional projects, I apply proven critical thinking, organizational, communication, and technical skills such as Python, Java, C, SQL, R, Verilog, Matlab, Machine Learning Models and Algorithms.

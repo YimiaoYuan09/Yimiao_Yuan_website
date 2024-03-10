@@ -3,13 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "Yimiao_Yuan_website"
+  title: "Yimiao Yuan"
+  site-url: "https://yimiaoyuan.com"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - contact.qmd
+      - text: "CV"
+        href: pdfs/cv-Yimiao_Yuan.pdf
+      - icon: envelope
+        href: "mailto:yymlinda.yuan@mail.utoronto.ca"
+
 
 format:
   html:

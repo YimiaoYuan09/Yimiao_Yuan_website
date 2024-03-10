@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "Contact"
 ---
 
-About this site
+If you want to know me more, find me on:
 
-```{r}
-1 + 1
-```
+[GitHub](https://github.com/YimiaoYuan09)

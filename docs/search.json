@@ -2,22 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my site!",
+    "title": "Yimiao Yuan",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Yimiao Yuan (Linda). I am a third year Engineering Science student studying at the University of Toronto, majoring in Machine Intelligence. I am currently doing my PEY at Xero as an intern data engineer.\nDuring my academic career, I managed to accrue 4 months of working experience. I had the privilege of working for the University of Toronto in a research lab during the summer, where I learned valuable professional skills such as experimental design and research and development.\nWhether working on academic, extracurricular, or professional projects, I apply proven critical thinking, organizational, communication, and technical skills such as Python, Java, C, SQL, R, Verilog, Matlab, Machine Learning Models and Algorithms."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "About",
+    "title": "Contact",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "If you want to know me more, find me on:\nGitHub"
   }
 ]
